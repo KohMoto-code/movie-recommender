@@ -6,3 +6,5 @@ In this exercise, I worked on a medium-level exploration using the recommender p
 'completion_tokens' is the new data I obtained from the API because it is the best data to represent the total number of tokens the model generates per use, which I think is the best representation of the total usage for a chat session.  
 
 One caveat for you to keep in mind is that in the prototype directory, there are two other files for v.0 and v.1, however, there are no updates on both files because I only selected v.2 to modify, as specific instructions on which file to choose were not given. So, I would like you to focus on the v.2 file for grading purposes. 
+
+You can view a short video of the user interaction with the modified prototype from this link: https://drive.google.com/file/d/1PpJehoSDlJ8TK14PQTdkqgoAOOu9Fy-q/view?usp=drive_link
